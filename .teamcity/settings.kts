@@ -35,6 +35,8 @@ project {
 object Build : BuildType({
     name = "Clean Test"
 
+    artifactRules = "target/*.jar => ."
+
     vcs {
         root(DslContext.settingsRoot)
     }
