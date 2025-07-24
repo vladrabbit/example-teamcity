@@ -42,9 +42,13 @@
 
 3. Сохраните необходимые шаги, запустите первую сборку master.
 
+![SCR1](https://github.com/vladrabbit/example-teamcity/blob/master/.scr/TS-1.png)
+
 13. Убедитесь, что сборка самостоятельно запустилась, тесты прошли успешно.
+
+![SCR2](https://github.com/vladrabbit/example-teamcity/blob/master/.scr/TS-2.png)
 
 17. Проведите повторную сборку мастера, убедитесь, что сбора прошла успешно и артефакты собраны.
 
-
+![SCR3](https://github.com/vladrabbit/example-teamcity/blob/master/.scr/ts-3.png)
 ---
